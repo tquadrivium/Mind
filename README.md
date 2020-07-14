@@ -8,7 +8,7 @@
 
 - Chapter 00：前言与导论
 
-  [[slides]](https://tquadrivium.github.io/mind/slides/chapter01.pdf) [video]
+  [[slides]](https://tquadrivium.github.io/Mind/slides/chapter01.pdf) [video]
 
 - Chapter 01：心灵哲学中的12个问题
 
