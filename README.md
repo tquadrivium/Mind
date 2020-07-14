@@ -8,7 +8,7 @@
 
 - Chapter 00：前言与导论
 
-  [slides] [video]
+  [[slides]](https://tquadrivium.github.io/mind/slides/chapter01.pdf) [video]
 
 - Chapter 01：心灵哲学中的12个问题
 
@@ -96,4 +96,4 @@
 
 负责人	：	[Hao ZHAN](https://github.com/zhanhao93)
 
-项目成员：	谢心翔、侯锐、孙新、李济安、陈禹锟、王中倩、吴俊冰、吕昊东、王哲
+项目成员：	谢心翔、侯锐、孙新、李济安、陈禹锟、王中倩、吴俊冰、吕昊东、王哲、李铖
