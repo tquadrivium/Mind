@@ -4,6 +4,12 @@
 
 [[点击在线阅读]](https://tquadrivium.github.io/Mind/)
 
+关注公众微信号「三艺四术」，获取更多读书会信息。
+
+![](img/qrcode.jpg)
+
+
+
 ### 1.课程大纲
 
 - Chapter 00：前言与导论
