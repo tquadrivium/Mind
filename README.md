@@ -14,11 +14,11 @@
 
 - Chapter 00：前言与导论
 
-  [[slides]](https://tquadrivium.github.io/Mind/slides/chapter01.pdf) [[video]](https://www.bilibili.com/video/BV1oa4y1h7uo/)
+  [[slides]](slides/chapter01/01.pdf) [[video]](https://www.bilibili.com/video/BV1oa4y1h7uo/)
 
 - Chapter 01：心灵哲学中的12个问题
 
-  [slides] [video]
+  [[slides]](slides/chapter02/01.pdf)  [video]
 
 - Chapter 02：转向唯物主义
 
