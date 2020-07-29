@@ -18,7 +18,7 @@
 
 - Chapter 01：心灵哲学中的12个问题
 
-  [[slides]](slides/chapter02/01.pdf)  [video]
+  [[slides]](slides/chapter02/01.pdf)  [[video]](https://www.bilibili.com/video/BV1ch411d7yL?p=1)
 
 - Chapter 02：转向唯物主义
 
